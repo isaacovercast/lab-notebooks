@@ -1,5 +1,5 @@
 # bounds for theta per site (guessed from observed pi within subpops)
-upperTheta = 0.02
+upperTheta = 0.08488
 lowerTheta = 4e-11
 # upper limit of tau (divergence time)
 upperTau = 1.0
